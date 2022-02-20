@@ -2,7 +2,7 @@
 
 > Horizongame est un bot simple mais puissant qui vise à offrir aux utilisateurs de Discord une "expérience Discord" améliorée.
 > Serveur de support: [ici](https://discord.gg/JBBeMm8s97)
-> site web: [ici](https:horizongame.ml)
+> site web: [ici](https://horizongame.ml)
 
 ### Les fonctionnalités actuelles
 
